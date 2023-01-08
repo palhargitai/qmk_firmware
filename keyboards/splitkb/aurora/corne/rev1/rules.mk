@@ -18,3 +18,5 @@
 
 # Convert to the right shield type.
 CONVERT_TO=elite_pi
+WPM_ENABLE=yes
+SPLIT_WPM_ENABLE=yes
